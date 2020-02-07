@@ -4,7 +4,7 @@
 
 原论文：《An Efficient Approach based on Multi-sources Information to Predict CircRNA-disease Associations Using Deep Convolutional Neural Network》（paper文件夹中也有）
 
-
+公式显示有问题的，可以下载下来用markdown浏览器看或者下载chrome的MathJax Plugin for Github插件。
 
 ### 1. 目的
 
