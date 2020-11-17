@@ -19,7 +19,7 @@ disease_similarity = np.zeros([100, 100])  # 100种病之间的相似度，初�
 width = 0
 
 for m in range(100):
-    width += np.sum(association_matrix[m])**0.5  # 按定义用二阶范数计算width parameter
+    width += np.sum(association_matrix[m]**2)**0.5  # 按定义用二阶范数计算width parameter
 
 print(width)
 
